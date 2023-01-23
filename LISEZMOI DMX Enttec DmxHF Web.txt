@@ -1,0 +1,10 @@
+Application permettant de piloter au choix :
+- module Ethernet Enttec
+- carte DMX/USB maison via le serveur ServeurDMXHF.exe
+- DMX Wifi Eurolite, via une clé Wifi (Wi-Pi) : 2 cordons XLR DMX-in et DMX-out doivent être connectés au matériel DMX
+
+1) Vérifier les information contenues dans configClientDMX.txt
+2) Lancer DMX Enttec DmxHF Web.exe et autoriser les applications serveurs dans le pare-feu Windows
+3) Vérifier la présence des codes Web dans le répertoirs /Web
+4) Saisir l'URL 127.0.0.1:81 dans un navigateur (à deux reprises lorsque la page n'est pas dans le cache du navigateur)
+
